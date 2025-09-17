@@ -409,6 +409,10 @@ module.exports = {
           600: "#525866",
           700: "#2B303B",
           800: "#222530",
+          950: "#0E121B",
+        },
+        nd_purple: {
+          500: "#AD46FF",
         },
         nd_primary_blue: {
           25: "#F6FAFE",
@@ -420,6 +424,7 @@ module.exports = {
           450: "#247DF9",
           500: "#1C6DEA",
           600: "#0561E2",
+          800: "#193CB8",
         },
         //borders gray
         nd_br_gray: {
